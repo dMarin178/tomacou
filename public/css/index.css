@@ -1,0 +1,42 @@
+ul{
+  list-style-type: none;
+  background-color: #b7b7a4;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+#user{
+  list-style-type: none;
+  background-color: #b7b7a4;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  float: right;
+}
+
+li{
+  float: left;
+  display: block;
+  padding: 15px;
+}
+
+li:hover{
+  background-color: #cb997e;
+}
+
+#topSales{
+  background-color: #6b705c;
+  padding: 20px;
+}
+
+#logo{
+  width: 20%;
+}
+
+#header{
+  padding:20px;
+  background-color: #cb997e;
+}
+
+
